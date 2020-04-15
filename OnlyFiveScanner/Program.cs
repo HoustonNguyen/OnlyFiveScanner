@@ -63,7 +63,7 @@ namespace OnlyFiveScanner
             // Credentials are necessary if the server requires the client 
             // to authenticate before it will send email on the client's behalf.
             //client.UseDefaultCredentials = false;
-            //client.Credentials = new NetworkCredential("hue.dynamics@gmail.com", "jdjcyatoktmdiled");
+            //client.Credentials = new NetworkCredential("example@gmail.com", "<example-password>");
         }
 
         static void BuildOutInviteFile()
