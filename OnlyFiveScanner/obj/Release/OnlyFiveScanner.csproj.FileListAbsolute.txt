@@ -1,0 +1,15 @@
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\OnlyFiveScanner.exe.config
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\OnlyFiveScanner.exe
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\OnlyFiveScanner.pdb
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\HtmlAgilityPack.dll
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\Newtonsoft.Json.dll
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\NodaTime.dll
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\System.Reflection.TypeExtensions.dll
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\HtmlAgilityPack.pdb
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\HtmlAgilityPack.xml
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\Newtonsoft.Json.xml
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\bin\Release\NodaTime.xml
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\obj\Release\OnlyFiveScanner.csproj.CopyComplete
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\obj\Release\OnlyFiveScanner.exe
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\obj\Release\OnlyFiveScanner.pdb
+G:\Hue_Files\GITHub\OnlyFiveScanner\OnlyFiveScanner\obj\Release\OnlyFiveScanner.csprojAssemblyReference.cache
